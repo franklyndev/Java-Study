@@ -5,7 +5,7 @@ import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
-public class Program {
+public class InstanceDateTime {
     public static void main(String[]args) {
         // Documentacao DateTimeFormatter
         // https://docs-oracle-com.translate.goog/javase/8/docs/api/java/time/format/DateTimeFormatter.html?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc
