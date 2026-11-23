@@ -1,13 +1,11 @@
-package enumerations.composition.excercise1;
+package enumerations.composition.exercise1;
 
-import enumerations.composition.excercise1.entities1.Departament;
-import enumerations.composition.excercise1.entities1.HourContract;
-import enumerations.composition.excercise1.entities1.Worker;
-import enumerations.composition.excercise1.enums1.WorkerLevel;
+import enumerations.composition.exercise1.entities1.Departament;
+import enumerations.composition.exercise1.entities1.HourContract;
+import enumerations.composition.exercise1.entities1.Worker;
+import enumerations.composition.exercise1.enums1.WorkerLevel;
 
-import javax.swing.*;
 import java.time.LocalDate;
-import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 

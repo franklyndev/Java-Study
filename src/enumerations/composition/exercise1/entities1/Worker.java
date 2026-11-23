@@ -1,15 +1,16 @@
-package enumerations.composition.excercise1.entities1;
+package enumerations.composition.exercise1.entities1;
 
-import enumerations.composition.excercise1.enums1.WorkerLevel;
+import enumerations.composition.exercise1.enums1.WorkerLevel;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class Worker {
+    // Attributes
     private String name;
     private WorkerLevel level;
     private Double baseSalary;
-
+    // Associations
     private Departament department;
     private List<HourContract> contracts = new ArrayList<>();
 

@@ -1,4 +1,4 @@
-package enumerations.composition.excercise1.entities1;
+package enumerations.composition.exercise1.entities1;
 
 public class Departament {
     private String name;
